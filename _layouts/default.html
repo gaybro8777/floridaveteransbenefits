@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>{{ page.title }}</title>
+<link href="/css/Veteran.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="page">
+	<div class="page-wrapper">
+		<div class="page-wrapper2">
+			<div class="header">
+				{% include header.html %}
+			</div> <!-- close div class="header" -->
+			<div class="content-main">
+				<div class="content-left">
+					{{ content }}
+				</div> <!-- close div class="content-left" -->
+				<div class="content-right">
+					{% include content-right.html %}
+				</div> <!-- close div class="content-right" -->
+
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
