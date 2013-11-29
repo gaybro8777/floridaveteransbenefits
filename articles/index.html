@@ -1,0 +1,14 @@
+---
+layout: default
+title: "I. Michael Tucker: Articles"
+---
+<div class="article">
+						<div class="article-title"><span class="name1">articles</span></div>
+						<div class="article-content">
+							<ul class="article-list">
+{% for post in site.posts %}
+								<li><a href="{{ post.url }}"><img src="/images/Article1.jpg" />{{ post.title }}</a></li>
+{% endfor %}
+							</ul>
+						</div>
+					</div>
