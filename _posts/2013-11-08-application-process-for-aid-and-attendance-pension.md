@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/understanding-application-process-for-aid-and-attendance-pension/
+permalink: /articles/understanding-application-process-for-aid-and-attendance-pension/
 published: true
 title: Understanding the Application Process for Aid & Attendance Pension
+list-title: The application process for aid and attendance Pension.
 ---
 
 # Understanding the Application Process for Aid & Attendance Pension

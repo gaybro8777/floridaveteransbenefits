@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/enrolling-in-veterans-health-care-system/
+permalink: /articles/enrolling-in-veterans-health-care-system/
 published: true
 title: Enrolling in the Veterans Health Care System
+list-title: Enrolling in the Veterans Health Care System
 ---
 
 # Enrolling in the Veterans Health Care System

@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/dependency-and-indemnity-compensation/
+permalink: /articles/dependency-and-indemnity-compensation/
 published: true
 title: Dependency and Indemnity Compensation (DIC)
+list-title: Dependency and Indemnity (DIC)
 ---
 
 # Dependency and Indemnity Compensation (DIC)

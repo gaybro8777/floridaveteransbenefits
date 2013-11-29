@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/understanding-long-term-medical-costs/
+permalink: /articles/understanding-long-term-medical-costs/
 published: true
 title: Understanding the Special Case of Long Term Medical Costs
+list-title: The special case of Long Term Medical Costs.
 ---
 # Understanding the Special Case of Long Term Care Medical Costs
 

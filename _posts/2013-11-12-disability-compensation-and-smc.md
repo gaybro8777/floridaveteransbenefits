@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/disability-compensation-and-smc/
+permalink: /articles/disability-compensation-and-smc/
 published: true
 title: Disability Compensation and SMC
+list-title: Disability Compensation & SMC
 ---
 
 # Disability Compensation and SMC

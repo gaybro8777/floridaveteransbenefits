@@ -149,3 +149,35 @@ body {
 strong, b {
 	font-weight: bold;
 }
+.article-list {
+	padding: 0;
+}
+.article-list li {
+	list-style-type:none;
+	width: 50%;
+	padding: 0;
+	margin: 0;
+}
+.article-list li:nth-child(odd) {
+	float: left;
+}
+.article-list li:nth-child(even) {
+	float: right;
+}
+.article-list li p {
+	width: 100%;
+	overflow: auto;
+	margin-top: 0px;
+	margin-bottom: 4px;
+}
+.article-list li p img {
+	vertical-align: text-top;
+	float: left;
+}
+.article-list li p a {
+	font-size: 11px;
+	font-style: normal;
+	font-weight: bold;
+	color: #828257;
+	text-decoration: none;
+}

@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/best-health-care-system-in-america/
+permalink: /articles/best-health-care-system-in-america/
 published: true
 title: The Best Health Care System in America
+list-title: The Best Health Care System in America
 ---
 
 # The Best Health Care System in America

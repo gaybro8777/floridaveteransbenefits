@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/state-veterans-homes/
+permalink: /articles/state-veterans-homes/
 published: true
 title: State Veterans Homes
+list-title: State Veterans Nursing Homes
 ---
 
 # State Veterans Homes

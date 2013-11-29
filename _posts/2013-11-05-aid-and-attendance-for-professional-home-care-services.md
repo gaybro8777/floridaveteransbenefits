@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/aid-and-attendance-professional-home-care-services/
+permalink: /articles/aid-and-attendance-professional-home-care-services/
 published: true
 title: Using Aid and Attendance for Professional Home Care Services
+list-title: Using aid & attendance for professional home care.
 ---
 
 # Using Aid and Attendance for Professional Home Care Services #

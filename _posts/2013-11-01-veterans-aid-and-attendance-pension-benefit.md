@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/what_veterans_aid_attendance_pension_benefit/
+permalink: /articles/what_veterans_aid_attendance_pension_benefit/
 published: true
 title: What Is the Veterans Aid and Attendance Pension Benefit?
+list-title: What is the Veterans Aid & Attendance pension benefit?
 ---
 
 # What is the Veterans Aid and Attendance Pension Benefit? #

@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/hisa-grants/
+permalink: /articles/hisa-grants/
 published: true
 title: HISA Grants
+list-title: HISA Grants
 ---
 
 # HISA Grants

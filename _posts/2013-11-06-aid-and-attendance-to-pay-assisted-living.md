@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/aid-and-attendance-assisted-living/
+permalink: /articles/aid-and-attendance-assisted-living/
 published: true
 title: Using Aid and Attendance to Pay for Assisted Living
+list-title: Using aid & attendance for to pay for assisted living.
 ---
 
 # Using Aid and Attendance to Pay for Assisted Living

@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/when-family-should-use-benefits-consultant/
+permalink: /articles/when-family-should-use-benefits-consultant/
 published: true
 title: When the Family Should Use an Aid and Attendance Benefit Consultant
+list-title: When the family should use a benefits consultant.
 ---
 
 # When the Family Should Use an Aid and Attendance Benefit Consultant

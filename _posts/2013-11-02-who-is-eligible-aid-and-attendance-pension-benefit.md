@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/who_is_eligible_aid_attendance_pension_benefit/
+permalink: /articles/who_is_eligible_aid_attendance_pension_benefit/
 published: true
 title: Who Is Eligible for the Aid and Attendance Pension Benefit?
+list-title: Who is eligible for the Aid & Attendance pension benefit?
 ---
 
 # Who Is Eligible for the Aid and Attendance Pension Benefit? #
@@ -22,7 +23,7 @@ A special provision for calculating Pension income, allows household income to b
 
 This special provision can allow veteran households earning more than the annual MAPR to qualify for Pension. As an example, a veteran household earning $6,000 a month could still qualify for Pension if the veteran is paying $4,500 to $6,000 a month for nursing home costs. The applicant must submit appropriate evidence for a rating and for recurring costs in order to qualify for this special provision. VA normally does not tell applicants about this special treatment of medical expenses or how to qualify for it. Our book provides ample information on this special treatment and provides appropriate forms to present medical and cost evidence in the most favorable manner.
 
-For an explanation of the special annualized treatment of unreimbursed long term care costs and insurance premiums please go to the article entitled ["Understanding the special case of long term care medical costs."](/Articles/understanding_special_case_long_term_care.htm)
+For an explanation of the special annualized treatment of unreimbursed long term care costs and insurance premiums please go to the article entitled ["Understanding the special case of long term care medical costs."](/articles/understanding_special_case_long_term_care.htm)
 
 **Dealing with Assets That May Disqualify the Applicant**  
 There is also an asset test to qualify for Pension. Any asset or investment that could be easily converted into income might disqualify the claimant. An asset ceiling of $80,000 is often cited in the media as being the test. The $80,000 has to do with VA internal filing requirements and is not an actual test. In reality, there is no dollar amount for the test and any level of assets could block the award. The asset test ultimately becomes a subjective decision made by the veterans service representative, processing the application.

@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/veterans-health-administration-long-term-care-benefits/
+permalink: /articles/veterans-health-administration-long-term-care-benefits/
 published: true
 title: Veterans Health Administration Long Term Care Benefits
+list-title: VA Health Administration
 ---
 
 # Veterans Health Administration Long Term Care Benefits

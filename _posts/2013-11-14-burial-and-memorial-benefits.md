@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/burial-and-memorial-benefits/
+permalink: /articles/burial-and-memorial-benefits/
 published: true
 title: Burial and Memorial Benefits
+list-title: Burial and Memorial Benefits
 ---
 
 # Burial and Memorial Benefits

@@ -1,8 +1,9 @@
 ---
 layout: post
-permalink: /Articles/when-family-can-submit-application-without-help/
+permalink: /articles/when-family-can-submit-application-without-help/
 published: true
 title: When the Family Can Submit an Application without Help
+list-title: When the family can submit a claim without help.
 ---
 
 # When the Family Can Submit an Application without Help
