@@ -9,6 +9,9 @@ body {
 	margin-right: 0px;
 	background-color: #DFDFDF;
 }
+strong, b {
+	font-weight: bold;
+}
 .page-wrapper {
 	margin: 0 auto;
 	width: 808px;
@@ -146,8 +149,8 @@ body {
 .content-right-links li:first-child {
 	margin: 3px 0 3px 0;
 }
-strong, b {
-	font-weight: bold;
+.content-right-links li a {
+	text-decoration: none;
 }
 .article-list {
 	padding: 0;

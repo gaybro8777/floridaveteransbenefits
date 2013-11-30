@@ -6,7 +6,7 @@ title: "I. Michael Tucker: Articles"
 						<div class="article-title"><span class="name1">articles</span></div>
 						<div class="article-content">
 							<ul class="article-list">
-{% for post in site.posts %}
+{% for post in site.posts reversed %}
 								<li><p><a href="{{ post.url }}"><img src="/images/Article1.jpg" />{{ post.list-title }}</a></p></li>
 {% endfor %}
 							</ul>
