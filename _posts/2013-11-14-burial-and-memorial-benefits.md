@@ -10,7 +10,7 @@ list-title: Burial and Memorial Benefits
  
 The information below was taken from the US department of Veterans Affairs web site
 
-**Burial, Headstone & Plot Rate Table**
+**Burial, Headstone &amp; Plot Rate Table**
 
 <table border="1" align="center" cellpadding="4" cellspacing="0">
 <tbody>

@@ -2,11 +2,11 @@
 layout: post
 permalink: /articles/understanding-application-process-for-aid-and-attendance-pension/
 published: true
-title: Understanding the Application Process for Aid & Attendance Pension
+title: Understanding the Application Process for Aid &amp; Attendance Pension
 list-title: The application process for aid and attendance Pension.
 ---
 
-# Understanding the Application Process for Aid & Attendance Pension
+# Understanding the Application Process for Aid &amp; Attendance Pension
 
 Most of the data on this page come from the Department of Veterans Affairs 2008 budget proposal to Congress. Available online from www.va.org
 

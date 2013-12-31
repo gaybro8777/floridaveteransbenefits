@@ -51,7 +51,7 @@ Claimants should complete VA Form 21-534 (Application for Dependency and Indemni
 
 **What are Some Related Benefits?**  
 Health Care (CHAMPVA) Federal Employment Pre 
-Home Loan Guaranty Survivors' & Dependents' Educational Assistance
+Home Loan Guaranty Survivors' &amp; Dependents' Educational Assistance
 
 For More Information, Call Toll-Free 1-800-827-1000
 or Visit VA’s Web Site at www.va.gov

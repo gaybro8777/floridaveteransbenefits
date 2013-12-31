@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/who_is_eligible_aid_attendance_pension_benefit/
 published: true
 title: Who Is Eligible for the Aid and Attendance Pension Benefit?
-list-title: Who is eligible for the Aid & Attendance pension benefit?
+list-title: Who is eligible for the Aid &amp; Attendance pension benefit?
 ---
 
 # Who Is Eligible for the Aid and Attendance Pension Benefit? #
@@ -63,7 +63,7 @@ In order to receive one of these ratings the claimant must check the "Yes" box o
 
 Medical evidence for a rating for "aid and attendance" or "housebound" for living arrangements other than a nursing home should be submitted with the application to avoid a delay in the approval process. Waiting for the regional office to order medical records is a time-consuming process, mainly because doctors offices don't respond quickly to these kinds of requests.
 
-We recommend a report completed by the physician, and obtained by the family prior to submission of the claim. This report is then included with the initial application. We provide in our book a form entitled "Form 1 -- Statement of Attending Physician (used to determine rating for A&A or HB)." This document is similar to a form used internally by VA to obtain information from veterans medical facilities for determining a rating. It is in a format that a veterans service representative would recognize.
+We recommend a report completed by the physician, and obtained by the family prior to submission of the claim. This report is then included with the initial application. We provide in our book a form entitled "Form 1 -- Statement of Attending Physician (used to determine rating for A&amp;A or HB)." This document is similar to a form used internally by VA to obtain information from veterans medical facilities for determining a rating. It is in a format that a veterans service representative would recognize.
 
 Ratings are requested by checking the appropriate box for aid and attendance or housebound on VA Form 21-526 or VA Form 21-534.
 

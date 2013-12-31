@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/using-veterans-aid-and-attendance-benefit-consultant/
 published: true
 title: Using a Veterans Aid and Attendance Benefit Consultant
-list-title: Using an aid & attendance benefits consultant.
+list-title: Using an aid &amp; attendance benefits consultant.
 ---
 
 # Using a Veterans Aid and Attendance Benefit Consultant

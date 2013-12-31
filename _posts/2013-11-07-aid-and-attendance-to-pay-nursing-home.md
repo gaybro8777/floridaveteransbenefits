@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/aid-and-attendance-nursing-home/
 published: true
 title: Using Aid and Attendance to Pay for a Nursing Home
-list-title: Using aid & attendance for to pay for a nursing home.
+list-title: Using aid &amp; attendance for to pay for a nursing home.
 ---
 
 # Using Aid and Attendance to Pay for a Nursing Home

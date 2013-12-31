@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/disability-compensation-and-smc/
 published: true
 title: Disability Compensation and SMC
-list-title: Disability Compensation & SMC
+list-title: Disability Compensation &amp; SMC
 ---
 
 # Disability Compensation and SMC
@@ -31,8 +31,8 @@ Note: You may be paid additional amounts, in certain instances, if:
 You can apply by filling out VA Form 21-526, Veterans Application for Compensation and/or Pension. If you have any of the following material, please attach it to your application:
 
 * Discharge or separation papers (DD214 or equivalent)
-* Dependency records (marriage & children's birth certificates)
-* Medical evidence (doctor & hospital reports)
+* Dependency records (marriage &amp; children's birth certificates)
+* Medical evidence (doctor &amp; hospital reports)
 
 **Special Monthly Compensation (SMC) for Serious Disabilities**
 

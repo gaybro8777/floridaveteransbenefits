@@ -3,7 +3,7 @@ layout: post
 permalink: /articles/aid-and-attendance-pay-any-person-care-in-home/
 published: true
 title: Using Aid and Attendance to Pay Any Person for Care in the Home
-list-title: Using aid & attendance to pay any one for care at home.
+list-title: Using aid &amp; attendance to pay any one for care at home.
 ---
 
 # Using Aid and Attendance to Pay Any Person for Care in the Home #

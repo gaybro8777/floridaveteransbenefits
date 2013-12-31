@@ -98,7 +98,7 @@ Veterans Means Test for Co-Pays (Low Income Financial Test) -- Financial Test Ye
 </tr>
 <tr>
 <td colspan="2">Medicare Deductible: $1,019</td>
-<td colspan="2">Income & Asset net worth: $80,000</td>
+<td colspan="2">Income &amp; Asset net worth: $80,000</td>
 </tr>
 </table>
 
