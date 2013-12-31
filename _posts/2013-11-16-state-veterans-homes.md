@@ -81,6 +81,7 @@ Number of Veterans Served:
 </tr>
 </table>
 </td>
+</tr>
 <tr>
 <td>Women</td>
 <td>8%</td>

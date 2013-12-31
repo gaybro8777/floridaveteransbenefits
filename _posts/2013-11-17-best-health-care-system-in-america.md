@@ -51,38 +51,50 @@ It comes as a surprise to some people who had experience with VA health care dur
 <td></td>
 <td>Total</td>
 </tr>
+<tr>
 <td>Uses other sources for health care</td>
 <td>31.8</td>
+</tr>
 <tr>
 <td>Did not need any care</td>
 <td>23.7</td>
+</tr>
 <tr>
 <td>Not aware of the VA health care benefits</td>
 <td>21.6</td>
+</tr>
 <tr>
 <td>Did not believe self entitled or eligible for health care benefits</td>
 <td>20.4</td>
+</tr>
 <tr>
 <td>VA care is inconvenient</td>
 <td>13.3</td>
+</tr>
 <tr>
 <td>Other</td>
 <td>9.5</td>
+</tr>
 <tr>
 <td>Did not need or want assistance from the VA</td>
 <td>8.0</td>
+</tr>
 <tr>
 <td>Never considered getting any health care from the VA</td>
 <td>5.1</td>
+</tr>
 <tr>
 <td>Didn't think VA health care would be as good as that available elsewhere</td>
 <td>3.1</td>
+</tr>
 <tr>
 <td>Applying for health care benefits too much trouble or red tape</td>
 <td>3.0</td>
+</tr>
 <tr>
 <td>Did not know how to apply for health care benefits</td>
 <td>2.3</td>
+</tr>
 <tr>
 <td>Number of veterans†</td>
 <td>16,396,700</td>

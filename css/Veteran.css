@@ -184,3 +184,8 @@ strong, b {
 	color: #828257;
 	text-decoration: none;
 }
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

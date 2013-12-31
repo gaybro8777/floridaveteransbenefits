@@ -29,9 +29,9 @@ The surviving spouse if he or she:
 * was married to the veteran for at least one year, OR
 * had a child with the veteran, AND
 * cohabited with the veteran continuously until the veteran’s death or, if separated, was not at fault for the separation, AND
-* is not currently remarried.*
+* is not currently remarried.\*
 
-*Note: A surviving spouse who remarries on or after December 16, 2003, and on or after attaining age 57, is entitled to continue to receive DIC.
+\*Note: A surviving spouse who remarries on or after December 16, 2003, and on or after attaining age 57, is entitled to continue to receive DIC.
 
 The surviving child(ren), if he/she is:
 
