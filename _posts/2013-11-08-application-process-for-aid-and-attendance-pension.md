@@ -101,6 +101,6 @@ The public version book offered on this site contains all the necessary informat
 
 The secret to shortening the time from submission to a decision is to anticipate all of the documentation requirements that are necessary and submit them with the original application.
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)

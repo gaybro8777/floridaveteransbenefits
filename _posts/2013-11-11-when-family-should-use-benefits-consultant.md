@@ -25,13 +25,13 @@ The actual process of obtaining documents and filling out forms should be done, 
 
 Home care agencies, nursing homes and assisted living facilities that pay a specialist to file a claim on behalf of one of their residents or clients are in violation of the third-party fee provisions allowed by VA. This is an obvious intent to circumvent the regulation.
 
-VA does allow disinterested third party organizations to pay someone to file an application on behalf of the veteran--based on 38 C.F.R. § 20.609(d) (1992). This regulation, addressing disinterested third-party fee payers, provides that “[a]n attorney-at-law or agent may receive a fee or salary from an organization, governmental entity, or other disinterested third party for representation of a claimant or appellant even though the conditions set forth in paragraph (c) (38 USC section 5904) [regarding fees for services after a final decision by the DVA] have not been met.”
+VA does allow disinterested third party organizations to pay someone to file an application on behalf of the veteran--based on 38 C.F.R. § 20.609(d) (1992). This regulation, addressing disinterested third-party fee payers, provides that “\[a\]n attorney-at-law or agent may receive a fee or salary from an organization, governmental entity, or other disinterested third party for representation of a claimant or appellant even though the conditions set forth in paragraph (c) (38 USC section 5904) \[regarding fees for services after a final decision by the DVA\] have not been met.”
 
 VA amended its rules pertaining to this regulation on May 23, 2002. The following rules now apply:
 
 * First, it prohibits an attorney or agent from charging a fee contingent, in whole or in part, upon whether the matter is resolved favorably to the claimant or appellant.
 * Second, it establishes a rebuttable presumption that the spouse, child, or parent of the claimant, or a person residing with the claimant, is not a disinterested third party.
-* Third, it requires that all agreements for payment by a third party be in writing, be filed with the Board, and include a certification by the attorney or agent that “no agreement, oral or otherwise, exists under which the claimant or appellant will provide anything of value to the third-party payer . . . in return for payment of [the attorney’s] fee or salary, including, but not limited to, reimbursement of any fees paid.” 38 C.F.R. § 20.609(d)(2); 67 Fed. Reg. at 36,104. (See enclosed addendum court decision for more detail.)
+* Third, it requires that all agreements for payment by a third party be in writing, be filed with the Board, and include a certification by the attorney or agent that “no agreement, oral or otherwise, exists under which the claimant or appellant will provide anything of value to the third-party payer . . . in return for payment of \[the attorney’s\] fee or salary, including, but not limited to, reimbursement of any fees paid.” 38 C.F.R. § 20.609(d)(2); 67 Fed. Reg. at 36,104. (See enclosed addendum court decision for more detail.)
 
 **Situations Where a Consultant Should Be Used for Advice in Filing a Claim**
 

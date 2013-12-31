@@ -61,6 +61,6 @@ The evidence submitted must include:
 4. the name of the person to or for whom the product or service was provided
 5. identification of the provider to whom payment was made.
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)

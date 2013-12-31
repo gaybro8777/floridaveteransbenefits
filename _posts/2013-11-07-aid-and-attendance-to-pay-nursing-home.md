@@ -119,6 +119,6 @@ After John becomes eligible for Medicaid, things get complicated. Medicaid does 
 
 When John dies, Mary's lower income may qualify her for a death benefit Pension from the VA.
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)

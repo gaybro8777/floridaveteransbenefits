@@ -74,6 +74,6 @@ The table below examines this sizable group of potential beneficiaries and also 
 
 ![](/assets/2013-11-01-Veterans-Aid-and-Attendance-Pension-Benefit-image003.gif)
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)

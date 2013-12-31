@@ -45,6 +45,6 @@ After five months, VA awards Carla $1,056 a month in additional Pension income. 
 **Conclusion**  
 Depending on household income and the amount of the care contract and the amount of VA Pension income, these types of care arrangements could be a welcome addition for families struggling to provide care for their loved ones at home. Family care providers, on contract with their loved ones, do not have to be residing in the home. Caution should be exercised that these are indeed legitimate contracts and care provider arrangements and there are no behind-the-scenes transfers of monies.
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)

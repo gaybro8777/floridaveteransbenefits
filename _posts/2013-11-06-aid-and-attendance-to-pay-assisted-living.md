@@ -29,6 +29,6 @@ VA will not allow a Pension rating for a non-veteran spouse of a living veteran,
 Of course, a death claim is different because the surviving spouse can receive a rating in that case. If VA allows annualization of facility costs for a spouse of a living veteran, there will be no Pension allowance for aid and attendance or housebound, and the Pension award will be much smaller.
 
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)

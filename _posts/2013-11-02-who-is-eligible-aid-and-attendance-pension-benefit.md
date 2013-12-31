@@ -84,4 +84,4 @@ The new income derived from subtracting adjusted medical expenses from income is
 
 ![](/assets/2013-11-02-Who-is-Eligible-Aid-and-Attendance-Pension-Benefit-image003.gif)
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)

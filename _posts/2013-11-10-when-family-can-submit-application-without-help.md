@@ -33,8 +33,8 @@ CFR §14.630 Authorization for a particular claim.
 (3) The nature and status of the claim; and
 
 (4) Whether there exists unique circumstances which would render alternative representation inadequate. (Authority: 38 U.S.C. 501(a), 5903)
-[53 FR 52421, Dec. 28, 1988, as amended at 68 FR 8546, Feb. 24, 2003]
+\[53 FR 52421, Dec. 28, 1988, as amended at 68 FR 8546, Feb. 24, 2003\]
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)

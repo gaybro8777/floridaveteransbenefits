@@ -106,13 +106,13 @@ The GMT Income Threshold Test (geographic means test) could be higher or lower t
 
 ## 2008 Co-payment Rates -- Effective January 1, 2008
 
-**Outpatient Services***
+**Outpatient Services\***
 
 Basic Care Services—services provided by a primary care clinician **$15/visit**
 
 Specialty Care Services—services provided by a clinical specialist such as surgeon, radiologist, audiologist, optometrist, cardiologist, and specialty tests such as magnetic resonance imagery (MRI), computerized axial tomography (CAT) scan, and nuclear medicine studies **$50/visit**
 
-*Co-pay amount is limited to a single charge per visit regardless of the number of health care providers seen in a single day. The copay amount is based on the highest level of service received. There is no copy requirement for preventive care services such as screenings and immunizations.
+\*Co-pay amount is limited to a single charge per visit regardless of the number of health care providers seen in a single day. The copay amount is based on the highest level of service received. There is no copy requirement for preventive care services such as screenings and immunizations.
 
 **Medications**
 
@@ -139,7 +139,7 @@ VA does not charge a copay for medications used for treatment of —
 * A veteran's cancer of head or neck caused by nose or throat radium treatments given while in the military
 * A veteran participating in a VA approved research project
 
-**Inpatient Services****
+**Inpatient Services\*\***
 
 Inpatient copy for first 90 days of care during a 365-day period **$1,024**
 
@@ -147,7 +147,7 @@ Inpatient Copy for each additional 90 days of care during a 365-day period **$51
 
 Per Diem Charge **$10/day**
 
-**Based on geographically-based means testing, lower income veterans who live in high-cost areas may qualify for a reduction of 80% of inpatient copy charges.
+\*\*Based on geographically-based means testing, lower income veterans who live in high-cost areas may qualify for a reduction of 80% of inpatient copy charges.
 
 Long-Term Care
 

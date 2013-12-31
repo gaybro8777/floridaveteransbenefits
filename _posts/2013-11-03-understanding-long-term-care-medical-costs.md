@@ -70,6 +70,6 @@ Ratings are requested by checking the appropriate box for aid and attendance or 
 
 Most families make the mistake of applying too soon -- before care arrangements have been made -- and may end up with a denial of the claim or drag out the process many months longer than it should take.
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)

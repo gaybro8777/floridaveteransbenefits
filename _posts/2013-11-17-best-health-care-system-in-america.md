@@ -142,7 +142,7 @@ The Veterans Health Administration is the largest single provider of medical car
 * HISA grants
 * Other special benefits
 
-An example of one of VA's 22 regions is Region 19. -- Geographically one of the largest in the system. Headquartered in Denver this region covers the states of Montana , Wyoming , Utah , Colorado and part of Nevada . Region 19 includes three health-care system hospitals and three satellite hospitals. There are also 33 outpatient clinics in urban centers scattered throughout the five states and 7 Vet Centers in urban areas that provide special services for veterans who served in combat.
+An example of one of VA's 22 regions is Region 19. -- Geographically one of the largest in the system. Headquartered in Denver this region covers the states of Montana, Wyoming, Utah, Colorado, and part of Nevada . Region 19 includes three health-care system hospitals and three satellite hospitals. There are also 33 outpatient clinics in urban centers scattered throughout the five states and 7 Vet Centers in urban areas that provide special services for veterans who served in combat.
 
 The six hospitals in Region 19 offer a wide range of medical specialties and procedures and it is unlikely that any patient would have to be referred to the private care community for any services not offered by these hospitals. But if specialized services are not offered in the region, VA hospitals, region to region, share responsibilities for very specialized treatment and patients needing these specialties not offered in their region are referred to other VA facilities that do offer the care.
 

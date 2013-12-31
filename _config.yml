@@ -2,3 +2,5 @@ name: Florida Veterans Benefits
 markdown: redcarpet
 pygments: true
 encoding: UTF-8
+redcarpet:
+  extensions: [xhtml]

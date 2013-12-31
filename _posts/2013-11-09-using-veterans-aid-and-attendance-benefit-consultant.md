@@ -23,6 +23,6 @@ You should use a consultant:
 * With applications that require estate and tax planning
 * With applications that involve business ownership, farms, business and investment property and assets that are difficult to turn into cash
 
-![](/assets/pension_mapr.gif)
+![Pension Rates - Maximum Allowable Pension Rates](/assets/pension_mapr.gif)
 
-![](/assets/death-pension_mapr.gif)
+![Death Pension - Maximum Allowable Pension Rates](/assets/death-pension_mapr.gif)
