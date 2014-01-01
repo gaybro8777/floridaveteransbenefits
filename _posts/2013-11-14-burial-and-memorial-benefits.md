@@ -12,56 +12,90 @@ The information below was taken from the US department of Veterans Affairs web s
 
 **Burial, Headstone &amp; Plot Rate Table**
 
-<table border="1" align="center" cellpadding="4" cellspacing="0">
+<table border="1" cellpadding="4" cellspacing="0" class="centertable">
 <tbody>
-<tr>
-<td><p align="center"><b>Benefit</b></p></td>
-<td><p align="center"><b>Rate</b></p></td>
-<td><p align="center"><b>Date Rate Changed</b></p></td>
-<td><p align="center"><b>Public Law </b></p></td>
-</tr>
-<tr>
-<td>Headstone</td>
-<td><p align="right">$132<br />
-$128<br />
-$113<br />
-$112<br />
-$101<br />
-$109<br />
-$94</p></td>
-<td><p align="center">10-01-2006<br />
-10-01-2005<br />
-10-01-2004<br />
-10-01-2003<br />
-10-01-2002<br />
-10-01-2001<br />
-10-01-2000</p></td>
-<td>PL 95-476</td>
-</tr>
-<tr>
-<td>Service-Connected Burial</td>
-<td><p align="right">*$2,000<br />$1,500</p></td>
-<td><p align="center">09-11-2001<br />04-01-1988</p></td>
-<td><p>PL 107-103<br />PL 100-322</p></td>
-</tr>
-<tr>
-<td>Non-service Connected Burial</td>
-<td><p align="right">$300 </p></td>
-<td><p align="center">04-01-1988</p></td>
-<td>PL 100-322</td>
-</tr>
-<tr>
-<td>Plot Allowance</td>
-<td><p align="right">$300<br>$150</p></td>
-<td><p align="center">12-01-2001<br>04-01-1988</p></td>
-<td><p>PL 107-103<br>PL 100-322</p></td>
-</tr>
-<tr>
-<td>State Cemetery Plot Allowance</td>
-<td><p align="right">$300<br />$150</p></td>
-<td><p align="center">12-01-2001<br />04-01-1988 </p></td>
-<td>PL 107-103</td>
-</tr>
+  <tr>
+    <td>
+      <p class="center"><b>Benefit</b></p>
+    </td>
+    <td>
+      <p class="center"><b>Rate</b></p>
+    </td>
+    <td>
+      <p class="center"><b>Date Rate Changed</b></p>
+    </td>
+    <td>
+      <p class="center"><b>Public Law </b></p>
+    </td>
+  </tr>
+  <tr>
+    <td>Headstone</td>
+    <td>
+      <p>$132<br />
+        $128<br />
+        $113<br />
+        $112<br />
+        $101<br />
+        $109<br />
+        $ 94
+      </p>
+    </td>
+    <td>
+      <p>10-01-2006<br />
+        10-01-2005<br />
+        10-01-2004<br />
+        10-01-2003<br />
+        10-01-2002<br />
+        10-01-2001<br />
+        10-01-2000
+      </p>
+    </td>
+    <td>PL 95-476</td>
+  </tr>
+  <tr>
+    <td>Service-Connected Burial</td>
+    <td>
+      <p>$2,000*<br />$1,500</p>
+    </td>
+    <td>
+      <p>09-11-2001<br />04-01-1988</p>
+    </td>
+    <td>
+      <p>PL 107-103<br />PL 100-322</p>
+    </td>
+  </tr>
+  <tr>
+    <td>Non-service Connected Burial</td>
+    <td>
+      <p>$300</p>
+    </td>
+    <td>
+      <p>04-01-1988</p>
+    </td>
+    <td>PL 100-322</td>
+  </tr>
+  <tr>
+    <td>Plot Allowance</td>
+    <td>
+      <p>$300<br />$150</p>
+    </td>
+    <td>
+      <p>12-01-2001<br />04-01-1988</p>
+    </td>
+    <td>
+      <p>PL 107-103<br />PL 100-322</p>
+    </td>
+  </tr>
+  <tr>
+    <td>State Cemetery Plot Allowance</td>
+    <td>
+      <p>$300<br />$150</p>
+    </td>
+    <td>
+      <p>12-01-2001<br />04-01-1988 </p>
+    </td>
+    <td>PL 107-103</td>
+  </tr>
 </tbody>
 </table>
 

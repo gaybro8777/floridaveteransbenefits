@@ -67,114 +67,117 @@ You should contact you local VA regional office for information about applying f
 
 **Compensation Rate Table**  
 Basic Rates - 10%-100% Combined Degree Only  
-Effective 12/1/07  
+Effective 12/1/07
+
 <table>
-<tr>
-<td>Disability Percent</td>
-<td>10%</td>
-<td>20%</td>
-<td>30%</td>
-<td>40%</td>
-<td>50%</td>
-<td>60%</td>
-<td>70%</td>
-<td>80%</td>
-<td>90%</td>
-<td>100%</td>
-</tr>
-<td>Veteran Alone</td>
-<td>$117</td>
-<td>$230</td>
-<td>$356</td>
-<td>$512</td>
-<td>$728</td>
-<td>$921</td>
-<td>$1,161</td>
-<td>$1,349</td>
-<td>$1,517</td>
-<td>$2,527</td>
-<tr>
-<td>Veteran &amp; Spouse</td>
-<td></td>
-<td></td>
-<td>$398</td>
-<td>$568</td>
-<td>$799</td>
-<td>$1,006</td>
-<td>$1,260</td>
-<td>$1,462</td>
-<td>$1,644</td>
-<td>$2,669</td>
-</tr>
-<tr>
-<td>A/A Spouse</td>
-<td></td>
-<td></td>
-<td>$39</td>
-<td>$52</td>
-<td>$64</td>
-<td>$77</td>
-<td>$90</td>
-<td>$103</td>
-<td>$116</td>
-<td>$129</td>
-</tr>
+  <tr>
+    <td>Disability Percent</td>
+    <td>10%</td>
+    <td>20%</td>
+    <td>30%</td>
+    <td>40%</td>
+    <td>50%</td>
+    <td>60%</td>
+    <td>70%</td>
+    <td>80%</td>
+    <td>90%</td>
+    <td>100%</td>
+  </tr>
+  <tr>
+    <td>Veteran Alone</td>
+    <td>$117</td>
+    <td>$230</td>
+    <td>$356</td>
+    <td>$512</td>
+    <td>$728</td>
+    <td>$921</td>
+    <td>$1,161</td>
+    <td>$1,349</td>
+    <td>$1,517</td>
+    <td>$2,527</td>
+  </tr>
+  <tr>
+    <td>Veteran &amp; Spouse</td>
+    <td></td>
+    <td></td>
+    <td>$398</td>
+    <td>$568</td>
+    <td>$799</td>
+    <td>$1,006</td>
+    <td>$1,260</td>
+    <td>$1,462</td>
+    <td>$1,644</td>
+    <td>$2,669</td>
+  </tr>
+  <tr>
+    <td>A/A Spouse</td>
+    <td></td>
+    <td></td>
+    <td>$39</td>
+    <td>$52</td>
+    <td>$64</td>
+    <td>$77</td>
+    <td>$90</td>
+    <td>$103</td>
+    <td>$116</td>
+    <td>$129</td>
+  </tr>
 </table>
 
 **Special Monthly Compensation (SMC) Rate Table**  
 Effective 12/1/07
 
 <table>
-<tr>
-<td>Disability Status</td>
-<td>L</td>
-<td>L&frac12;</td>
-<td>M</td>
-<td>M&frac12;</td>
-<td>N</td>
-<td>N&frac12;</td>
-<td>O/P</td>
-<td>R.1</td>
-<td>R.2</td>
-<td>S</td>
-</tr>
-<tr>
-<td>Veteran Alone</td>
-<td>$3,145</td>
-<td>$3,307</td>
-<td>$3,470</td>
-<td>$3,709</td>
-<td>$3,948</td>
-<td>$4,180</td>
-<td>$4,412</td>
-<td>$6,305</td>
-<td>$7,232</td>
-<td>$2,829</td>
-</tr>
-<tr>
-<td>Veteran with Spouse</td>
-<td>$3,287</td>
-<td>$3,449</td>
-<td>$3,612</td>
-<td>$3,851</td>
-<td>$4,090</td>
-<td>$4,322</td>
-<td>$4,554</td>
-<td>$6,447</td>
-<td>$7,374</td>
-<td>$2,971</td>
-</tr>
-<tr>
-<td>A/A spouse</td>
-<td>$129</td>
-<td>$129</td>
-<td>$129</td>
-<td>$129</td>
-<td>$129</td>
-<td>$129</td>
-<td>$129</td>
-<td>$129</td>
-<td>$129</td>
-<td>$129</td>
-</tr>
+  <tr>
+    <td>Disability Status</td>
+    <td>L</td>
+    <td>L&frac12;</td>
+    <td>M</td>
+    <td>M&frac12;</td>
+    <td>N</td>
+    <td>N&frac12;</td>
+    <td>O/P</td>
+    <td>R.1</td>
+    <td>R.2</td>
+    <td>S</td>
+  </tr>
+  <tr>
+    <td>Veteran Alone</td>
+    <td>$3,145</td>
+    <td>$3,307</td>
+    <td>$3,470</td>
+    <td>$3,709</td>
+    <td>$3,948</td>
+    <td>$4,180</td>
+    <td>$4,412</td>
+    <td>$6,305</td>
+    <td>$7,232</td>
+    <td>$2,829</td>
+  </tr>
+  <tr>
+    <td>Veteran with Spouse</td>
+    <td>$3,287</td>
+    <td>$3,449</td>
+    <td>$3,612</td>
+    <td>$3,851</td>
+    <td>$4,090</td>
+    <td>$4,322</td>
+    <td>$4,554</td>
+    <td>$6,447</td>
+    <td>$7,374</td>
+    <td>$2,971</td>
+  </tr>
+  <tr>
+    <td>A/A spouse</td>
+    <td>$129</td>
+    <td>$129</td>
+    <td>$129</td>
+    <td>$129</td>
+    <td>$129</td>
+    <td>$129</td>
+    <td>$129</td>
+    <td>$129</td>
+    <td>$129</td>
+    <td>$129</td>
+  </tr>
 </table>

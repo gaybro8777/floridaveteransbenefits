@@ -55,412 +55,412 @@ The following is quoted from the Armed Forces Veterans Homes Foundation:
 > "State Veterans Homes are one of the largest long term care providers in the United States . During 2005, State Veterans Homes furnished 6,852,875 days of nursing home care and 1,477,885 days of domiciliary (assisted living) care. As of February 13, 2006, there were 133 State Veterans Homes in 50 states and Puerto Rico with 30,255 total beds."
 
 <table>
-<tr>
-<td>Number of State Veterans Homes</td>
-<td>133</td>
-</tr>
-<tr>
-<td colspan="2">
-Number of Veterans Served:
-<table padding="0" align="right">
-<tr>
-<td>Nursing Home Care</td>
-<td>23,915</td>
-</tr>
-<tr>
-<td>Domiciliary Care</td>
-<td>6,053</td>
-</tr>
-<tr>
-<td>Hospital Care</td>
-<td>287</td>
-</tr>
-<tr>
-<td>Total Population Served</td>
-<td>30,255</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td>Women</td>
-<td>8%</td>
-</tr>
-<tr>
-<td>Average Age</td>
-<td>77</td>
-</tr>
-<tr>
-<td>Average Years of Military Service</td>
-<td>4</td>
-</tr>
-<tr>
-<td>Served in War Theater</td>
-<td>95%</td>
-</tr>
-<tr>
-<td>Served in World War II</td>
-<td>70%</td>
-</tr>
-<tr>
-<td>Served in the Korean War</td>
-<td>15%</td>
-</tr>
-<tr>
-<td>Served in the Vietnam War</td>
-<td>15%</td>
-</tr>
+  <tr>
+    <td>Number of State Veterans Homes</td>
+    <td>133</td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Number of Veterans Served:
+      <table style="float: right">
+        <tr>
+          <td>Nursing Home Care</td>
+          <td>23,915</td>
+        </tr>
+        <tr>
+          <td>Domiciliary Care</td>
+          <td>6,053</td>
+        </tr>
+        <tr>
+          <td>Hospital Care</td>
+          <td>287</td>
+        </tr>
+        <tr>
+          <td>Total Population Served</td>
+          <td>30,255</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>Women</td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td>Average Age</td>
+    <td>77</td>
+  </tr>
+  <tr>
+    <td>Average Years of Military Service</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Served in War Theater</td>
+    <td>95%</td>
+  </tr>
+  <tr>
+    <td>Served in World War II</td>
+    <td>70%</td>
+  </tr>
+  <tr>
+    <td>Served in the Korean War</td>
+    <td>15%</td>
+  </tr>
+  <tr>
+    <td>Served in the Vietnam War</td>
+    <td>15%</td>
+  </tr>
 </table>
 Source: Armed Forces Veterans Homes Foundation
 
- 
 
-**Overview of America 's Veterans Homes**  
-Nursing Home, Domiciliary and Hospital Care for America 's Heroes
+
+**Overview of America's Veterans Homes**  
+Nursing Home, Domiciliary and Hospital Care for America's Heroes
 
 <table>
-<tr>
-<td colspan="4">Number of Homes:</td>
-</tr>
-<tr>
-<td>State:</td>
-<td>Currently:</td>
-<td>Soon Opening:</td>
-<td>Resident Capacity:</td>
-</tr>
-<tr>
-<td>Alabama</td>
-<td>3</td>
-<td>0</td>
-<td>450</td>
-</tr>
-<tr>
-<td>Alaska</td>
-<td>1</td>
-<td>0</td>
-<td>79</td>
-</tr>
-<tr>
-<td>Arizona</td>
-<td>1</td>
-<td>0</td>
-<td>200</td>
-</tr>
-<tr>
-<td>Arkansas</td>
-<td>1</td>
-<td>1</td>
-<td>224</td>
-</tr>
-<tr>
-<td>California</td>
-<td>3</td>
-<td>0</td>
-<td>2111</td>
-</tr>
-<tr>
-<td>Colorado</td>
-<td>5</td>
-<td>0</td>
-<td>630</td>
-</tr>
-<tr>
-<td>Connecticut</td>
-<td>1</td>
-<td>0</td>
-<td>671</td>
-</tr>
-<tr>
-<td>Delaware</td>
-<td>0</td>
-<td>1</td>
-<td>150</td>
-</tr>
-<tr>
-<td>Florida</td>
-<td>6</td>
-<td>0</td>
-<td>750</td>
-</tr>
-<tr>
-<td>Georgia</td>
-<td>2</td>
-<td>0</td>
-<td>742</td>
-</tr>
-<tr>
-<td>Hawaii</td>
-<td>0</td>
-<td>1</td>
-<td>95</td>
-</tr>
-<tr>
-<td>Idaho</td>
-<td>3</td>
-<td>0</td>
-<td>314</td>
-</tr>
-<tr>
-<td>Illinois</td>
-<td>4</td>
-<td>0</td>
-<td>1313</td>
-</tr>
-<tr>
-<td>Indiana</td>
-<td>1</td>
-<td>0</td>
-<td>580</td>
-</tr>
-<tr>
-<td>Iowa</td>
-<td>1</td>
-<td>0</td>
-<td>830</td>
-</tr>
-<tr>
-<td>Kansas</td>
-<td>2</td>
-<td>0</td>
-<td>435</td>
-</tr>
-<tr>
-<td>Kentucky</td>
-<td>3</td>
-<td>0</td>
-<td>525</td>
-</tr>
-<tr>
-<td>Louisiana</td>
-<td>3</td>
-<td>2</td>
-<td>785</td>
-</tr>
-<tr>
-<td>Maine</td>
-<td>5</td>
-<td>0</td>
-<td>490</td>
-</tr>
-<tr>
-<td>Maryland</td>
-<td>1</td>
-<td>0</td>
-<td>378</td>
-</tr>
-<tr>
-<td>Massachusetts</td>
-<td>2</td>
-<td>0</td>
-<td>830</td>
-</tr>
-<tr>
-<td>Michigan</td>
-<td>2</td>
-<td>0</td>
-<td>1001</td>
-</tr>
-<tr>
-<td>Minnesota</td>
-<td>5</td>
-<td>0</td>
-<td>864</td>
-</tr>
-<tr>
-<td>Mississippi</td>
-<td>4</td>
-<td>0</td>
-<td>600</td>
-</tr>
-<tr>
-<td>Missouri</td>
-<td>7</td>
-<td>0</td>
-<td>1250</td>
-</tr>
-<tr>
-<td>Montana</td>
-<td>2</td>
-<td>0</td>
-<td>245</td>
-</tr>
-<tr>
-<td>Nebraska</td>
-<td>4</td>
-<td>0</td>
-<td>952</td>
-</tr>
-<tr>
-<td>Nevada</td>
-<td>1</td>
-<td>0</td>
-<td>180</td>
-</tr>
-<tr>
-<td>New Hampshire</td>
-<td>1</td>
-<td>0</td>
-<td>250</td>
-</tr>
-<tr>
-<td>New Jersey</td>
-<td>3</td>
-<td>0</td>
-<td>968</td>
-</tr>
-<tr>
-<td>New Mexico</td>
-<td>2</td>
-<td>0</td>
-<td>231</td>
-</tr>
-<tr>
-<td>New York</td>
-<td>5</td>
-<td>0</td>
-<td>1220</td>
-</tr>
-<tr>
-<td>North Carolina</td>
-<td>2</td>
-<td>0</td>
-<td>250</td>
-</tr>
-<tr>
-<td>North Dakota</td>
-<td>1</td>
-<td>0</td>
-<td>150</td>
-</tr>
-<tr>
-<td>Ohio</td>
-<td>2</td>
-<td>0</td>
-<td>895</td>
-</tr>
-<tr>
-<td>Oklahoma</td>
-<td>7</td>
-<td>0</td>
-<td>1439</td>
-</tr>
-<tr>
-<td>Oregon</td>
-<td>1</td>
-<td>0</td>
-<td>151</td>
-</tr>
-<tr>
-<td>Pennsylvania</td>
-<td>6</td>
-<td>0</td>
-<td>1639</td>
-</tr>
-<tr>
-<td>Rhode Island</td>
-<td>1</td>
-<td>0</td>
-<td>339</td>
-</tr>
-<tr>
-<td>South Carolina</td>
-<td>3</td>
-<td>0</td>
-<td>615</td>
-</tr>
-<tr>
-<td>South Dakota</td>
-<td>1</td>
-<td>0</td>
-<td>180</td>
-</tr>
-<tr>
-<td>Tennessee</td>
-<td>2</td>
-<td>1</td>
-<td>380</td>
-</tr>
-<tr>
-<td>Texas</td>
-<td>6</td>
-<td>1</td>
-<td>1080</td>
-</tr>
-<tr>
-<td>Utah</td>
-<td>1</td>
-<td>0</td>
-<td>81</td>
-</tr>
-<tr>
-<td>Vermont</td>
-<td>1</td>
-<td>0</td>
-<td>216</td>
-</tr>
-<tr>
-<td>Virginia</td>
-<td>1</td>
-<td>1</td>
-<td>440</td>
-</tr>
-<tr>
-<td>Washington</td>
-<td>3</td>
-<td>0</td>
-<td>569</td>
-</tr>
-<tr>
-<td>West Virginia</td>
-<td>2</td>
-<td>0</td>
-<td>315</td>
-</tr>
-<tr>
-<td>Wisconsin</td>
-<td>2</td>
-<td>0</td>
-<td>955</td>
-</tr>
-<tr>
-<td>Wyoming</td>
-<td>1</td>
-<td>0</td>
-<td>123</td>
-</tr>
-<tr>
-<td colspan="4">U.S. Territories:</td>
-</tr>
-<tr>
-<td>Puerto Rico</td>
-<td>1</td>
-<td>0</td>
-<td>240</td>
-</tr>
-<tr>
-<td>Philippines</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Guam</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Virgin Islands</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>TOTAL</td>
-<td>133</td>
-<td>9</td>
-<td>30,255</td>
-</tr>
+  <tr>
+    <td colspan="4">Number of Homes:</td>
+  </tr>
+  <tr>
+    <td>State:</td>
+    <td>Currently:</td>
+    <td>Soon Opening:</td>
+    <td>Resident Capacity:</td>
+  </tr>
+  <tr>
+    <td>Alabama</td>
+    <td>3</td>
+    <td>0</td>
+    <td>450</td>
+  </tr>
+  <tr>
+    <td>Alaska</td>
+    <td>1</td>
+    <td>0</td>
+    <td>79</td>
+  </tr>
+  <tr>
+    <td>Arizona</td>
+    <td>1</td>
+    <td>0</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>Arkansas</td>
+    <td>1</td>
+    <td>1</td>
+    <td>224</td>
+  </tr>
+  <tr>
+    <td>California</td>
+    <td>3</td>
+    <td>0</td>
+    <td>2111</td>
+  </tr>
+  <tr>
+    <td>Colorado</td>
+    <td>5</td>
+    <td>0</td>
+    <td>630</td>
+  </tr>
+  <tr>
+    <td>Connecticut</td>
+    <td>1</td>
+    <td>0</td>
+    <td>671</td>
+  </tr>
+  <tr>
+    <td>Delaware</td>
+    <td>0</td>
+    <td>1</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>Florida</td>
+    <td>6</td>
+    <td>0</td>
+    <td>750</td>
+  </tr>
+  <tr>
+    <td>Georgia</td>
+    <td>2</td>
+    <td>0</td>
+    <td>742</td>
+  </tr>
+  <tr>
+    <td>Hawaii</td>
+    <td>0</td>
+    <td>1</td>
+    <td>95</td>
+  </tr>
+  <tr>
+    <td>Idaho</td>
+    <td>3</td>
+    <td>0</td>
+    <td>314</td>
+  </tr>
+  <tr>
+    <td>Illinois</td>
+    <td>4</td>
+    <td>0</td>
+    <td>1313</td>
+  </tr>
+  <tr>
+    <td>Indiana</td>
+    <td>1</td>
+    <td>0</td>
+    <td>580</td>
+  </tr>
+  <tr>
+    <td>Iowa</td>
+    <td>1</td>
+    <td>0</td>
+    <td>830</td>
+  </tr>
+  <tr>
+    <td>Kansas</td>
+    <td>2</td>
+    <td>0</td>
+    <td>435</td>
+  </tr>
+  <tr>
+    <td>Kentucky</td>
+    <td>3</td>
+    <td>0</td>
+    <td>525</td>
+  </tr>
+  <tr>
+    <td>Louisiana</td>
+    <td>3</td>
+    <td>2</td>
+    <td>785</td>
+  </tr>
+  <tr>
+    <td>Maine</td>
+    <td>5</td>
+    <td>0</td>
+    <td>490</td>
+  </tr>
+  <tr>
+    <td>Maryland</td>
+    <td>1</td>
+    <td>0</td>
+    <td>378</td>
+  </tr>
+  <tr>
+    <td>Massachusetts</td>
+    <td>2</td>
+    <td>0</td>
+    <td>830</td>
+  </tr>
+  <tr>
+    <td>Michigan</td>
+    <td>2</td>
+    <td>0</td>
+    <td>1001</td>
+  </tr>
+  <tr>
+    <td>Minnesota</td>
+    <td>5</td>
+    <td>0</td>
+    <td>864</td>
+  </tr>
+  <tr>
+    <td>Mississippi</td>
+    <td>4</td>
+    <td>0</td>
+    <td>600</td>
+  </tr>
+  <tr>
+    <td>Missouri</td>
+    <td>7</td>
+    <td>0</td>
+    <td>1250</td>
+  </tr>
+  <tr>
+    <td>Montana</td>
+    <td>2</td>
+    <td>0</td>
+    <td>245</td>
+  </tr>
+  <tr>
+    <td>Nebraska</td>
+    <td>4</td>
+    <td>0</td>
+    <td>952</td>
+  </tr>
+  <tr>
+    <td>Nevada</td>
+    <td>1</td>
+    <td>0</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>New Hampshire</td>
+    <td>1</td>
+    <td>0</td>
+    <td>250</td>
+  </tr>
+  <tr>
+    <td>New Jersey</td>
+    <td>3</td>
+    <td>0</td>
+    <td>968</td>
+  </tr>
+  <tr>
+    <td>New Mexico</td>
+    <td>2</td>
+    <td>0</td>
+    <td>231</td>
+  </tr>
+  <tr>
+    <td>New York</td>
+    <td>5</td>
+    <td>0</td>
+    <td>1220</td>
+  </tr>
+  <tr>
+    <td>North Carolina</td>
+    <td>2</td>
+    <td>0</td>
+    <td>250</td>
+  </tr>
+  <tr>
+    <td>North Dakota</td>
+    <td>1</td>
+    <td>0</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>Ohio</td>
+    <td>2</td>
+    <td>0</td>
+    <td>895</td>
+  </tr>
+  <tr>
+    <td>Oklahoma</td>
+    <td>7</td>
+    <td>0</td>
+    <td>1439</td>
+  </tr>
+  <tr>
+    <td>Oregon</td>
+    <td>1</td>
+    <td>0</td>
+    <td>151</td>
+  </tr>
+  <tr>
+    <td>Pennsylvania</td>
+    <td>6</td>
+    <td>0</td>
+    <td>1639</td>
+  </tr>
+  <tr>
+    <td>Rhode Island</td>
+    <td>1</td>
+    <td>0</td>
+    <td>339</td>
+  </tr>
+  <tr>
+    <td>South Carolina</td>
+    <td>3</td>
+    <td>0</td>
+    <td>615</td>
+  </tr>
+  <tr>
+    <td>South Dakota</td>
+    <td>1</td>
+    <td>0</td>
+    <td>180</td>
+  </tr>
+  <tr>
+    <td>Tennessee</td>
+    <td>2</td>
+    <td>1</td>
+    <td>380</td>
+  </tr>
+  <tr>
+    <td>Texas</td>
+    <td>6</td>
+    <td>1</td>
+    <td>1080</td>
+  </tr>
+  <tr>
+    <td>Utah</td>
+    <td>1</td>
+    <td>0</td>
+    <td>81</td>
+  </tr>
+  <tr>
+    <td>Vermont</td>
+    <td>1</td>
+    <td>0</td>
+    <td>216</td>
+  </tr>
+  <tr>
+    <td>Virginia</td>
+    <td>1</td>
+    <td>1</td>
+    <td>440</td>
+  </tr>
+  <tr>
+    <td>Washington</td>
+    <td>3</td>
+    <td>0</td>
+    <td>569</td>
+  </tr>
+  <tr>
+    <td>West Virginia</td>
+    <td>2</td>
+    <td>0</td>
+    <td>315</td>
+  </tr>
+  <tr>
+    <td>Wisconsin</td>
+    <td>2</td>
+    <td>0</td>
+    <td>955</td>
+  </tr>
+  <tr>
+    <td>Wyoming</td>
+    <td>1</td>
+    <td>0</td>
+    <td>123</td>
+  </tr>
+  <tr>
+    <td colspan="4">U.S. Territories:</td>
+  </tr>
+  <tr>
+    <td>Puerto Rico</td>
+    <td>1</td>
+    <td>0</td>
+    <td>240</td>
+  </tr>
+  <tr>
+    <td>Philippines</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Guam</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Virgin Islands</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>TOTAL</td>
+    <td>133</td>
+    <td>9</td>
+    <td>30,255</td>
+  </tr>
 </table>
 Source: Armed Forces Veterans Homes Foundation
 
